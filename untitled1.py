@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1TswVsLi-s1mwK-w-JiBh5BloAGRqNT4p
 """
 
-pip install keras streamlit pillow numpy
+
 
 from keras.models import load_model  # TensorFlow is required for Keras to work
 from PIL import Image, ImageOps  # Install pillow instead of PIL
